@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>
-    <img src="assets/images/logo.png" width="80px"><br/>
+    <img src="assets\images\logo.png" width="80px"><br/>
     snab_budget
   </h1>
   <h3>Personal & Family Budget Management App</h3>
@@ -15,7 +15,54 @@
     <a href="APK/app-arm64-v8a-release.apk" target="_blank">
         <img alt="Download APK" src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android" />
     </a>
+    <a href="https://play.google.com/store/apps/details?id=com.sevenskiessolutions.snab_budget&hl=en_US&pli=1" target="_blank">
+        <img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-Snabb%20Budget-brightgreen?style=for-the-badge&logo=google-play" />
+    </a>
+    <a href="https://apps.apple.com/us/app/snabb-budget/id6472646712" target="_blank">
+        <img alt="App Store" src="https://img.shields.io/badge/App%20Store-Snabb%20Budget-blue?style=for-the-badge&logo=apple" />
+    </a>
+    <a href="https://apkpure.com/snabb-budget/com.sevenskiessolutions.snab_budget" target="_blank">
+        <img alt="APKPure" src="https://img.shields.io/badge/APKPure-Snabb%20Budget-green?style=for-the-badge&logo=android" />
+    </a>
+    <a href="https://web.facebook.com/profile.php?id=61553682083596#" target="_blank">
+        <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Page-blue?style=for-the-badge&logo=facebook" />
+    </a>
 </p>
+
+---
+
+## 📱 Official App Links & Ratings
+
+- **Google Play:** [Snabb Budget on Google Play](https://play.google.com/store/apps/details?id=com.sevenskiessolutions.snab_budget&hl=en_US&pli=1)  
+  <img src="https://img.shields.io/badge/Rating-2.6★-yellow?style=flat-square"/> 6 reviews · 10+ downloads · Rated for 3+  
+  
+- **APKPure:** [Snabb Budget on APKPure](https://apkpure.com/snabb-budget/com.sevenskiessolutions.snab_budget)
+- **App Store:** [Snabb Budget on App Store](https://apps.apple.com/us/app/snabb-budget/id6472646712)
+- **AppAdvice:** [Snabb Budget on AppAdvice](https://appadvice.com/app/snabb-budget/6472646712)
+- **Facebook:** [Snabb Budget Facebook Page](https://web.facebook.com/profile.php?id=61553682083596#)
+
+---
+
+## 📖 About Snabb Budget
+
+Our expense management app provides a comprehensive solution for users to effectively manage their personal finances. With its user-friendly interface and powerful features, it empowers individuals to take control of their financial well-being.
+
+### Key Features
+
+- **Personal Accounts:** Create and manage multiple personal accounts (bank accounts, credit cards, cash) for accurate tracking of expenses and income across various sources.
+- **Income Tracking:** Easily record income from salaries, freelance work, or investments. Categorize and track incoming funds for a clear overview of total earnings.
+- **Expense Tracking:** Effortlessly record expenses in real-time, categorize them into predefined or custom categories, and add details such as amount, date, and description.
+- **Statistics and Insights:** Generate detailed statistics and visualizations based on recorded income and expenses. Access comprehensive reports and graphs to understand spending patterns, income sources, and budget allocation.
+- **Budget Management:** Set and manage budgets for specific categories or overall spending. Receive notifications and alerts about budget status and progress.
+- **Financial Goals:** Set financial goals (saving for a vacation, paying off debts, building an emergency fund), track progress, receive reminders, and adjust spending habits accordingly.
+- **Data Security:** Robust encryption methods safeguard personal information and financial transactions.
+
+Snabb Budget is the perfect companion for individuals seeking to achieve financial stability and effectively manage their expenses. With its intuitive interface, comprehensive features, and insightful analytics, it empowers users to make informed financial decisions and work towards their financial goals.
+
+> **References:**  
+> [Google Play Store](https://play.google.com/store/apps/details?id=com.sevenskiessolutions.snab_budget&hl=en_US&pli=1) · [APKPure](https://apkpure.com/snabb-budget/com.sevenskiessolutions.snab_budget) · [AppAdvice](https://appadvice.com/app/snabb-budget/6472646712) · [App Store](https://apps.apple.com/us/app/snabb-budget/id6472646712)
+
+---
 
 ## 📌 Overview
 
